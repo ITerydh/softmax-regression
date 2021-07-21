@@ -1,5 +1,8 @@
 # 基于softmax regression实现的文本多分类
 
+项目已经在aistudio开源  
+[基于softmax regression实现文本多分类](https://aistudio.baidu.com/aistudio/projectdetail/2135044)
+
 softmax regression主要用于解决多元分类问题，本项目通过编写softmaxRegression类实现文本的多分类
 
 
@@ -103,9 +106,9 @@ loss对参数W求导得到：
     Gram train 0.9975 test 0.515
 
 
+![Bow](https://github.com/ITerydh/softmax-regression/blob/main/Bow.jpg)
 
-![](https://github.com/ITerydh/softmax-regression/blob/main/Bow.jpg)
-![](https://github.com/ITerydh/softmax-regression/blob/main/Gram.jpg)
+![Gram](https://github.com/ITerydh/softmax-regression/blob/main/Gram.jpg)
 
 # 总结
 
