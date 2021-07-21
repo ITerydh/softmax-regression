@@ -104,8 +104,8 @@ loss对参数W求导得到：
 
 
 
-![](Bow.jpg)
-![](Gram.jpg)
+![](https://github.com/ITerydh/softmax-regression/blob/main/Bow.jpg)
+![](https://github.com/ITerydh/softmax-regression/blob/main/Gram.jpg)
 
 # 总结
 
